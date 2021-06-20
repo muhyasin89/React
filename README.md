@@ -11,11 +11,18 @@ This index is giving you description about my skill and journey in react
 # What is This Index Consist Of?
 
 This index constist of:
+## BasedOnDifficulty:
 <ul>
-    <li> Basic </li>
-    <li> design </li>
-    <li> Intermediate </li>
-    <li> Advance </li>
+<li>Basic</li>
+<li>Intermediate</li>
+<li>Advance</li>
+</ul>
+
+## Based On Implementation
+<ul>
+<li>Design</li>
+<li>Case Studies</li>
+<li>Project Based</li>
 </ul>
 
 
@@ -39,7 +46,3 @@ This Project consist of redux,  react-router, react-hooks, react-context
 
 This Project is more niece mostly about case study like shipper, payment gateway, maps, and other
 
-
-# Why design is categorize as one of folder?
-
-Well, it just to spesified that the project is focused on design, although usually it mix with others like react-router, redux, react-hooks
