@@ -1,8 +1,8 @@
-[submodule "react_hook_context"]
-	path = react_hook_context
+[submodule "Intermediate/react_hook_context"]
+	path = Intermediate/react_hook_context
 	url = https://github.com/muhyasin89/react_hook_context.git
-[submodule "react_hooks"]
-	path = react_hooks
+[submodule "Intermediate/react_hooks"]
+	path = Intermediate/react_hooks
 	url = https://github.com/muhyasin89/react_hooks.git
 [submodule "design/react-styled-smooth-scrool"]
 	path = design/react-styled-smooth-scrool
@@ -10,3 +10,6 @@
 [submodule "Advance/React_Shipper_API"]
 	path = Advance/React_Shipper_API
 	url = https://github.com/muhyasin89/React_Shipper_API.git
+[submodule "Design/react-admin"]
+	path = Design/react-admin
+	url = https://github.com/muhyasin89/react-dashboard.git
