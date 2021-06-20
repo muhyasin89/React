@@ -13,3 +13,9 @@
 [submodule "Design/react-admin"]
 	path = Design/react-admin
 	url = https://github.com/muhyasin89/react-dashboard.git
+[submodule "ProjectBased/react_framework"]
+	path = ProjectBased/react_framework
+	url = https://github.com/muhyasin89/react_framework.git
+[submodule "ProjectBased/react-dashboard"]
+	path = ProjectBased/react-dashboard
+	url = https://github.com/muhyasin89/react-dashboard.git
