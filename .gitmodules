@@ -4,3 +4,6 @@
 [submodule "react_hooks"]
 	path = react_hooks
 	url = https://github.com/muhyasin89/react_hooks.git
+[submodule "design/react-styled-smooth-scrool"]
+	path = design/react-styled-smooth-scrool
+	url = https://github.com/muhyasin89/react-styled-smooth-scrool.git
