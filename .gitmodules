@@ -7,3 +7,6 @@
 [submodule "design/react-styled-smooth-scrool"]
 	path = design/react-styled-smooth-scrool
 	url = https://github.com/muhyasin89/react-styled-smooth-scrool.git
+[submodule "Advance/React_Shipper_API"]
+	path = Advance/React_Shipper_API
+	url = https://github.com/muhyasin89/React_Shipper_API.git
