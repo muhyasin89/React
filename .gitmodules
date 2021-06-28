@@ -19,9 +19,3 @@
 [submodule "ProjectBased/react-dashboard"]
 	path = ProjectBased/react-dashboard
 	url = https://github.com/muhyasin89/react-dashboard.git
-[submodule "Design/React-Responsive-Hooks-Router"]
-	path = Design/React-Responsive-Hooks-Router
-	url = https://github.com/muhyasin89/React-Responsive-Hooks-Router.git
-[submodule "Design/project-fully-responsive"]
-	path = Design/project-fully-responsive
-	url = https://github.com/muhyasin89/project-fully-responsive.git
