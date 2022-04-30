@@ -7,7 +7,6 @@
 [submodule "design/react-styled-smooth-scrool"]
 	path = design/react-styled-smooth-scrool
 	url = https://github.com/muhyasin89/react-styled-smooth-scrool.git
-
 [submodule "Design/react-admin"]
 	path = Design/react-admin
 	url = https://github.com/muhyasin89/react-dashboard.git
