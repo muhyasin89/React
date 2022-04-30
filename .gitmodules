@@ -7,9 +7,7 @@
 [submodule "design/react-styled-smooth-scrool"]
 	path = design/react-styled-smooth-scrool
 	url = https://github.com/muhyasin89/react-styled-smooth-scrool.git
-[submodule "ProjectBased/React_Shipper_API"]
-	path = ProjectBased/React_Shipper_API
-	url = https://github.com/muhyasin89/React_Shipper_API.git
+
 [submodule "Design/react-admin"]
 	path = Design/react-admin
 	url = https://github.com/muhyasin89/react-dashboard.git
@@ -22,3 +20,6 @@
 [submodule "design/React-Tailwind"]
 	path = design/React-Tailwind
 	url = https://github.com/muhyasin89/React-Tailwind.git
+[submodule "ProjectBased/React_Shipper_API"]
+	path = ProjectBased/React_Shipper_API
+	url = https://github.com/muhyasin89/React_Shipper_API.git
