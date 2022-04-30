@@ -20,6 +20,4 @@
 [submodule "design/React-Tailwind"]
 	path = design/React-Tailwind
 	url = https://github.com/muhyasin89/React-Tailwind.git
-[submodule "ProjectBased/React_Shipper_API"]
-	path = ProjectBased/React_Shipper_API
-	url = https://github.com/muhyasin89/React_Shipper_API.git
+
