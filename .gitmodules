@@ -19,3 +19,6 @@
 [submodule "ProjectBased/react-dashboard"]
 	path = ProjectBased/react-dashboard
 	url = https://github.com/muhyasin89/react-dashboard.git
+[submodule "design/React-Tailwind"]
+	path = design/React-Tailwind
+	url = https://github.com/muhyasin89/React-Tailwind.git
