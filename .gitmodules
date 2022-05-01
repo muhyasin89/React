@@ -20,3 +20,6 @@
 	path = design/React-Tailwind
 	url = https://github.com/muhyasin89/React-Tailwind.git
 
+[submodule "Advance/reactHooks"]
+	path = Advance/reactHooks
+	url = https://github.com/muhyasin89/reactHooks.git
